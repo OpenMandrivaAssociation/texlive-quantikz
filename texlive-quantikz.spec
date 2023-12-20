@@ -1,6 +1,6 @@
 Name:		texlive-quantikz
-Version:	54911
-Release:	2
+Version:	67206
+Release:	1
 Summary:	Draw quantum circuit diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quantikz
