@@ -3,7 +3,7 @@ Version:	67206
 Release:	1
 Summary:	Draw quantum circuit diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quantikz
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/quantikz
 License:	cc-by-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quantikz.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quantikz.doc.r%{version}.tar.xz
